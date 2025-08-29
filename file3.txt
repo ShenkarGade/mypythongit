@@ -1,0 +1,20 @@
+
+hello welcom to github repository 
+i am placing files in githum with following commands 
+git --version 
+git status
+git add filename
+git add . -- to add all files
+git commit -m 'comments' file1 file2...
+git commit -m 'commnets'
+git log
+git show uid
+git clone url
+git push 
+
+git clone
+git branch
+git branch newbranch
+git switch newbranch
+git branch -b newbranch -- create and switch to new branch 
+git checkout newbranchname

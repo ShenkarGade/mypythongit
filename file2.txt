@@ -12,3 +12,9 @@ git show uid
 git clone url
 git push 
 
+git clone
+git branch
+git branch newbranch
+git switch newbranch
+git branch -b newbranch -- create and switch to new branch 
+git checkout newbranchname
